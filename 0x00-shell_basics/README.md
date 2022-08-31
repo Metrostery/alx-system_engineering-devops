@@ -1,1 +1,1 @@
-Takes me to home directory
+List files in directory in a long format
