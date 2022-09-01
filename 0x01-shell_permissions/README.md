@@ -1,1 +1,1 @@
-Print username
+List groups of user
